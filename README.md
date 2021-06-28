@@ -1,8 +1,7 @@
 ### NotFits
 
-Discord: NotFits#9999<br>
-Contact: AuntifyTeam@gmail.com<br>
-Website: https://auntify.cf<br>
+Discord: NotFits#5221 <br>
+Website: https://notfits.xyz<br>
 
 ## Tools That I use
 > Javascript <br>
