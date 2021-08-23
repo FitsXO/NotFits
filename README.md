@@ -1,6 +1,6 @@
 ### NotFits
 
-Discord: NotFits#5221 <br>
+Discord: Fitsie#9999 <br>
 Website: https://notfits.xyz<br>
 
 ## Tools That I use
